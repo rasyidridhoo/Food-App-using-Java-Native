@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/detail_photo"
+        android:layout_width="412dp"
+        android:scaleType="centerCrop"
+        android:layout_height="200dp" app:srcCompat="@color/teal_200" />
+
+    <TextView
+        android:id="@+id/detail_judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-47dp"
+        android:layout_marginLeft="14dp"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:text="Judul"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="14dp"
+        android:textSize="20dp"
+        android:text="Deskripsi"/>
+
+    <TextView
+        android:id="@+id/detail_deskripsi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="14dp"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        android:text="Deskripsi"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
