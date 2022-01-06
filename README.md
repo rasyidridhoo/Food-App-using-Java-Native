@@ -8,7 +8,7 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 
 # Screenshot
 
-*Home
+<h3> Home </h3>
 ![home](https://user-images.githubusercontent.com/80053076/148347595-39de9a09-3974-4fc5-8423-f6720e0a38f3.png)
 
 Sign In
