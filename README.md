@@ -8,7 +8,7 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 
 # Screenshot
 
-Home
+*Home
 ![home](https://user-images.githubusercontent.com/80053076/148347595-39de9a09-3974-4fc5-8423-f6720e0a38f3.png)
 
 Sign In
@@ -32,4 +32,5 @@ Menu with food data
 Detail food menu
 ![detail food menu](https://user-images.githubusercontent.com/80053076/148347779-5beed648-f713-4125-8322-c1a7ec92642b.png)
 ![device-2022-01-06-145633](https://user-images.githubusercontent.com/80053076/148348961-b76c6ccb-d975-4e11-b4c0-32b49e5524bc.png)
+
 
