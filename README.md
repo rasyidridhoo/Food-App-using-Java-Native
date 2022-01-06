@@ -21,7 +21,7 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 <h3>4. Sign Up</h3>
 <img width="250" alt="Sign Up" src="https://user-images.githubusercontent.com/80053076/148385360-22d2f741-ccaf-4583-98ce-3dcb89f114f0.png">
 
-<h3>5. Sign Up dengan name, email, password dan confirm password</h3>
+<h3>5. Sign Up dengan nama, email, password dan confirm password</h3>
 <img width="250" alt="Sign Up with data" src="https://user-images.githubusercontent.com/80053076/148385403-296cab7b-267f-47a7-b360-95e7bd4f4ca5.png">
 
 <h3>6. Food menu (sebelum ditambahkan database yang berupa daftar menu) </h3>
