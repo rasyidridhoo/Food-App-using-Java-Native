@@ -31,3 +31,5 @@ Menu with food data
 
 Detail food menu
 ![detail food menu](https://user-images.githubusercontent.com/80053076/148347779-5beed648-f713-4125-8322-c1a7ec92642b.png)
+![device-2022-01-06-145633](https://user-images.githubusercontent.com/80053076/148348961-b76c6ccb-d975-4e11-b4c0-32b49e5524bc.png)
+
