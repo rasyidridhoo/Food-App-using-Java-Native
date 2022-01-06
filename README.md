@@ -24,15 +24,12 @@ https://user-images.githubusercontent.com/80053076/148347654-2ffc49ea-4807-4fd4-
 <h3>5. Sign Up with name, email, password and confirm password</h3>
 https://user-images.githubusercontent.com/80053076/148347663-7bb834d1-60f9-4989-928c-9791c5bcc0a1.png
 
-<h3>6. Menu without food data</h3>
-https://user-images.githubusercontent.com/80053076/148347729-cb35ad2b-d924-45fe-be33-ee87f364ca55.png
-
-<h3>7. Menu with food data</h3>
+<h3>6. Food menu</h3>
 https://user-images.githubusercontent.com/80053076/148347767-866f3e28-a9d4-403d-92b1-853c574ffe73.png
 
-<h3>8. Detail food menu</h3>
+<h3>7. Detail food menu</h3>
 https://user-images.githubusercontent.com/80053076/148347779-5beed648-f713-4125-8322-c1a7ec92642b.png
 
-<h3>9. Logout</h3>
+<h3>8. Logout</h3>
 https://user-images.githubusercontent.com/80053076/148348961-b76c6ccb-d975-4e11-b4c0-32b49e5524bc.png
 
