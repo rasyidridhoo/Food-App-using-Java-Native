@@ -1,8 +1,8 @@
 # UAS-PPAM-FoodApp 
 
-- Nama : Mohamad Rasyid Ridho
-- NIM : 1197050073
-- Kelas : A
+Nama : Mohamad Rasyid Ridho <br>
+NIM : 1197050073<br>
+Kelas : A<br>
 
 Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan Aplikasi Mobile.
 
