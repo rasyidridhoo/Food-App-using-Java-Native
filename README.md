@@ -24,6 +24,9 @@ https://user-images.githubusercontent.com/80053076/148347654-2ffc49ea-4807-4fd4-
 <h3>5. Sign Up with name, email, password and confirm password</h3>
 https://user-images.githubusercontent.com/80053076/148347663-7bb834d1-60f9-4989-928c-9791c5bcc0a1.png
 
+<h3> Food menu </h3>
+<img width="200" alt="without data" src="https://user-images.githubusercontent.com/80053076/148384648-45c9092e-6d8f-4a5d-aa78-b01818c59090.png">
+
 <h3>6. Food menu</h3>
 https://user-images.githubusercontent.com/80053076/148347767-866f3e28-a9d4-403d-92b1-853c574ffe73.png
 
