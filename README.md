@@ -10,7 +10,7 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 # Screenshot
 
 <h3>1. Home </h3>
-https://user-images.githubusercontent.com/80053076/148351087-95b85fda-a1c7-440e-a78b-daa64c60d7a5.png
+<img width="225" alt="home" src="https://user-images.githubusercontent.com/80053076/148384952-f5374bb0-bdaf-4049-9d2b-dc5118619634.png">
 
 <h3>2. Sign In</h3>
 https://user-images.githubusercontent.com/80053076/148347629-b2273e6b-cd2b-44c8-aad7-e8eecb1bd651.png
