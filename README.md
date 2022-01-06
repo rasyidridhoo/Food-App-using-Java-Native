@@ -13,26 +13,27 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 <img width="250" alt="home" src="https://user-images.githubusercontent.com/80053076/148385064-3cdf86cf-9e26-4bcd-8970-0bb27f429f44.png">
 
 <h3>2. Sign In</h3>
-https://user-images.githubusercontent.com/80053076/148347629-b2273e6b-cd2b-44c8-aad7-e8eecb1bd651.png
+<img width="250" alt="sign in" src="https://user-images.githubusercontent.com/80053076/148385193-9d468375-c3ff-4f5e-8ab1-7460a1b368bc.png">
 
 <h3>3. Sign In with email and password</h3>
-https://user-images.githubusercontent.com/80053076/148347641-aa50a3b2-0e64-4e18-96b3-ac939b249182.png
+<img width="250" alt="Sign In with data" src="https://user-images.githubusercontent.com/80053076/148385263-806318ff-0e6b-4857-99ef-d0320b11651f.png">
 
 <h3>4. Sign Up</h3>
-https://user-images.githubusercontent.com/80053076/148347654-2ffc49ea-4807-4fd4-88f4-97517c09fcbe.png
+<img width="250" alt="Sign Up" src="https://user-images.githubusercontent.com/80053076/148385360-22d2f741-ccaf-4583-98ce-3dcb89f114f0.png">
 
 <h3>5. Sign Up with name, email, password and confirm password</h3>
-https://user-images.githubusercontent.com/80053076/148347663-7bb834d1-60f9-4989-928c-9791c5bcc0a1.png
+<img width="250" alt="Sign Up with data" src="https://user-images.githubusercontent.com/80053076/148385403-296cab7b-267f-47a7-b360-95e7bd4f4ca5.png">
 
-<h3> Food menu </h3>
-<img width="200" alt="without data" src="https://user-images.githubusercontent.com/80053076/148384648-45c9092e-6d8f-4a5d-aa78-b01818c59090.png">
+<h3>6. Food menu (sebelum ditambahkan database yang berupa daftar menu) </h3>
+![Uploading without data.png…]()
 
-<h3>6. Food menu</h3>
-https://user-images.githubusercontent.com/80053076/148347767-866f3e28-a9d4-403d-92b1-853c574ffe73.png
+<h3>7. Food menu (setelah ditambahkan database yang berupa daftar menu) </h3>
+<h4> Untuk menambahkan database (daftar menu), klik icon floating action button di pojok kanan bawah.</h4>
+<img width="250" alt="food menu" src="https://user-images.githubusercontent.com/80053076/148386111-c71ed0ee-0f9c-455f-9330-9b47920d0c90.png">
 
-<h3>7. Detail food menu</h3>
-https://user-images.githubusercontent.com/80053076/148347779-5beed648-f713-4125-8322-c1a7ec92642b.png
+<h3>8. Detail food menu</h3>
+<img width="250" alt="detail food menu" src="https://user-images.githubusercontent.com/80053076/148386153-ed79bad2-821c-47b3-9ecf-d2cb1ad3c662.png">
 
-<h3>8. Logout</h3>
-https://user-images.githubusercontent.com/80053076/148348961-b76c6ccb-d975-4e11-b4c0-32b49e5524bc.png
+<h3>9. Logout</h3>
+<img width="250" alt="logout" src="https://user-images.githubusercontent.com/80053076/148386193-1659359d-f176-4fb2-b35e-3dde58c85983.png">
 
