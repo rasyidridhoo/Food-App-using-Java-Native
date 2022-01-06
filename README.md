@@ -30,7 +30,7 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 <h3>7. Menu with food data</h3>
 (https://user-images.githubusercontent.com/80053076/148347767-866f3e28-a9d4-403d-92b1-853c574ffe73.png)
 
-<h3>8. Detail food menut</h3>
+<h3>8. Detail food menu</h3>
 (https://user-images.githubusercontent.com/80053076/148347779-5beed648-f713-4125-8322-c1a7ec92642b.png)
 
 <h3>9. Logout</h3>
