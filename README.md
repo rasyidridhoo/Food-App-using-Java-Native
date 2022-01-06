@@ -25,10 +25,10 @@ Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan 
 <img width="250" alt="Sign Up with data" src="https://user-images.githubusercontent.com/80053076/148385403-296cab7b-267f-47a7-b360-95e7bd4f4ca5.png">
 
 <h3>6. Food menu (sebelum ditambahkan database yang berupa daftar menu) </h3>
+<h4> Untuk menambahkan database (daftar menu), klik icon floating action button di pojok kanan bawah, maka daftar menu akan tampil.</h4>
 <img width="250" alt="without data" src="https://user-images.githubusercontent.com/80053076/148386529-a4aca515-19f1-4748-94d3-bc208efea091.png">
 
 <h3>7. Food menu (setelah ditambahkan database yang berupa daftar menu) </h3>
-<h4> Untuk menambahkan database (daftar menu), klik icon floating action button di pojok kanan bawah, maka daftar menu akan tampil.</h4>
 <img width="250" alt="food menu" src="https://user-images.githubusercontent.com/80053076/148386111-c71ed0ee-0f9c-455f-9330-9b47920d0c90.png">
 
 <h3>8. Detail food menu</h3>
