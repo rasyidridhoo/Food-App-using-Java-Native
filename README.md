@@ -1,4 +1,4 @@
-# UAS-PPAM-FoodApp 
+# Food-App-using-Java-Native
 
 Diajukan untuk memenuhi ujian akhir semester mata kuliah Praktikum Pengembangan Aplikasi Mobile.
 - Nama : Mohamad Rasyid Ridho <br>
